@@ -1,0 +1,65 @@
+main{
+background-color:rgb(59, 202, 202);
+box-shadow: 5px 5px  rgb(50, 171, 207);
+border-radius: 10px;
+width: 70%;
+height: 50%;
+margin-left: 300px;
+margin-right:20px ;
+}
+body{
+    background-color:rgb(#F2F2F2);
+
+    }
+
+input{
+    margin: 10px;
+    height: 20px;
+}
+icone{
+    background-color: rgb(0, 255, 179);
+    margin: 1px;
+}
+
+ul{
+    list-style-type: none;
+}
+#botao-att{
+    color: rgb(0, 0, 0);
+    margin: 2px;
+    border-color: green;
+    height: 25px;
+    cursor: pointer;
+}
+#botao-att:hover{
+   background-color: rgb(78, 247, 78);
+   color: rgb(255, 255, 255);
+}
+#botao-del{
+    color: rgb(0, 0, 0);
+    height: 25px;
+    border-color: red;
+    margin: 5px;
+    cursor: pointer;
+    
+
+}
+#botao-del:hover{
+   background-color: rgb(241, 88, 88);
+   color: rgb(255, 255, 255);
+    
+
+}
+#botao-ins{
+    color: blue;
+    height: 25px;
+    margin: 5px;
+    cursor: pointer;
+}
+#botao-proc{
+    color: blue;
+    height: 25px;
+    cursor: pointer;
+    margin: 5px;
+   
+}
